@@ -1,16 +1,15 @@
-## Hi there 👋
+## Some of my repos are sorted in the following organizations (so check them out too ✨)
 
-<!--
-**BaroqueObama/BaroqueObama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - [🔬 Data Analysis](https://github.com/BO-Data-Analysis)
+### - [🗿 3D Print CAD Files](https://github.com/BO-CAD-files)
+### - [🐴 Homestead CS Club Workshops](https://github.com/BO-HHS-CS)
+### - [🍴 Forks](https://github.com/BO-Forks)
+<div align="center">
+```
+                  ／l、
+                （ﾟ､ ｡ ７
+  __QQ            l  ~ヽ
+ (_)_">           じしf_,)ノ
+_)
+```
+</div>
