@@ -1,5 +1,4 @@
-#### I am 8 repos behind on my GitHub 😔 Hopefully I'll clutch up and add them in by the start of October 🤩
-## Some of my repos are sorted in the following organizations (or check my pins ✨)
+## My miscellaneous repos are hidden away in the following organizations
 
  - [**🔬 Data Analysis**](https://github.com/BO-Data-Analysis)
  - [**🗿 3D Print CAD Files**](https://github.com/BO-CAD-files)
