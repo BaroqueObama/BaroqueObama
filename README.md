@@ -30,9 +30,10 @@ _____//______||:||__|===\\|:::||;;;;;|_|$||$|||||_'    '`""""""|____
       ~^~~     ~^~~      ___:__/ |     \  /        ~^~~    ~^~~  ~^~~    ~^    
                  ~^~~  / (O)      `.___/  |    ~^~            ~^~           ~^~
  ~^~~    ~^~~          ~^~~ ~~~~~ ~~  ~^~~       ~^~~  ~^~~      ~^~~        ~^
+
 Daniel Matsui Smola | Bay Area, Seattle (Uni of Washington), Munich, Kanazawa
   </code></pre>
 </div>
 <div align="center">
 </div>
-I like stuff that mixes deep learning, hardware, learning theory, numerical analysis, randomized algorithms, and statistics (and more!).
+I like stuff that mixes deep learning, hardware, learning theory, numerical analysis, randomized algorithms, and statistics.
